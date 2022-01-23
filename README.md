@@ -4,7 +4,7 @@ Instagram account
 👉[![Instagram  ](https://img.shields.io/badge/INSTAGRAM-FOLLOW-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/shubhamg0sai)👈
 
 # video
-👉[![video  ](https://img.shields.io/badge/SUBSCRIBE-CHANNEL-red?style=for-the-badge&logo=instagram)](https://youtu.be/BArLADlBkjI)👈
+👉[![video  ](https://img.shields.io/badge/SUBSCRIBE-CHANNEL-red?style=for-the-badge&logo=instagram)](https://youtu.be/y1LCYLlkD9c)👈
 
 # screenshot 
 ![ ](https://raw.githubusercontent.com/shubhamg0sai/hack-wifi/Delete/Screenshot_20200929_173113.jpg)
