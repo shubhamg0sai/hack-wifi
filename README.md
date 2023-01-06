@@ -7,7 +7,7 @@ Instagram account
 👉[![video  ](https://img.shields.io/badge/SUBSCRIBE-CHANNEL-red?style=for-the-badge&logo=instagram)](https://youtu.be/y1LCYLlkD9c)👈
 
 # screenshot 
-![ ](https://raw.githubusercontent.com/shubhamg0sai/hack-wifi/Delete/Screenshot_20200929_173113.jpg)
+[![ ](https://raw.githubusercontent.com/shubhamg0sai/hack-wifi/Delete/Screenshot_20200929_173113.jpg)](https://raw.githubusercontent.com/shubhamg0sai/hack-wifi/Delete/Screenshot_20200929_173113.jpg)
 
 
 ### installation
